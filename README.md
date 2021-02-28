@@ -1,4 +1,5 @@
 # CS320
+<b>Derek Nill</b>
 <p>
   <b>How can I ensure that my code, program, or software is functional and secure?</b><br>
   Software testing is a good way to ensure that my program is functional and secure. Both static and dynamic testing can be useful. Unit testing using JUnit to ensure that all requirements are being met is very good at this task.
